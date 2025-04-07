@@ -1,0 +1,3 @@
+matplotlib
+BeautifulSoup4
+lxml
