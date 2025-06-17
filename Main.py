@@ -1,6 +1,5 @@
 import matplotlib.pyplot as plt
 from bs4 import BeautifulSoup
-import lxml
 import os
 
 def plot_data():
