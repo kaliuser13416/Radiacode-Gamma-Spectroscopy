@@ -9,7 +9,6 @@ https://github.com/user-attachments/assets/f8b5f8c6-3405-4ba5-aef5-11b650c0ac0e
 Pyhton 3.10+
 - BeautifulSoup4
 - matplotlib
-- lxml
 
 ## Install
 Download Main.py, install the requirements with pip3, move the XML files to the same directory, then run Main.py. 
